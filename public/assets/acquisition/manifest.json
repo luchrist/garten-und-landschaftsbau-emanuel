@@ -1,0 +1,82 @@
+[
+  {
+    "originalFile": "scraped-01.jpg",
+    "file": "photos/projekte/scraped-01-01.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "scraped-01",
+    "subjectSlug": "scraped-01",
+    "description": "",
+    "leistung": "keine"
+  },
+  {
+    "originalFile": "api-01.jpg",
+    "file": "photos/projekte/api-01-01.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "api-01",
+    "subjectSlug": "api-01",
+    "description": "",
+    "leistung": "keine"
+  },
+  {
+    "originalFile": "api-02.jpg",
+    "file": "photos/projekte/api-02-01.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "api-02",
+    "subjectSlug": "api-02",
+    "description": "",
+    "leistung": "keine"
+  },
+  {
+    "originalFile": "api-04.jpg",
+    "file": "photos/projekte/api-04-01.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "api-04",
+    "subjectSlug": "api-04",
+    "description": "",
+    "leistung": "keine"
+  },
+  {
+    "originalFile": "api-05.jpg",
+    "file": "photos/projekte/api-05-01.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "api-05",
+    "subjectSlug": "api-05",
+    "description": "",
+    "leistung": "keine"
+  },
+  {
+    "originalFile": "api-06.jpg",
+    "file": "photos/projekte/api-06-01.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "api-06",
+    "subjectSlug": "api-06",
+    "description": "",
+    "leistung": "keine"
+  },
+  {
+    "originalFile": "api-07.jpg",
+    "file": "photos/projekte/api-07-01.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "api-07",
+    "subjectSlug": "api-07",
+    "description": "",
+    "leistung": "keine"
+  },
+  {
+    "originalFile": "api-08.jpg",
+    "file": "photos/projekte/api-08-01.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "api-08",
+    "subjectSlug": "api-08",
+    "description": "",
+    "leistung": "keine"
+  }
+]
