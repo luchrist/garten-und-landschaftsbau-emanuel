@@ -26,7 +26,7 @@ export interface Referenz {
 export const referenzen: Referenz[] = [
   {
     id: "nadelbaum-zwischen-wohnhaeusern",
-    title: "Nadelbaum zwischen Wohnhäusern abgetragen",
+    title: "Heckenschnitt",
     ort: "Raum Wiesloch",
     leistung: "Baumpflege & Baumfällung",
     afterImage: "/assets/acquisition/projekte/api-01-01.jpg",
